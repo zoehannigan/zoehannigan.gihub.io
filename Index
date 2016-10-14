@@ -1,0 +1,31 @@
+
+<!doctype html>
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.css" integrity="sha384-rHyoN1iRsVXV4nD0JutlnGaslCJuC7uwjduW9SVrLvRYooPp2bWYgmgJQIXwl/Sp" crossorigin="anonymous">
+	<link rel="stylesheet" type="text/css" href="style.css">
+	<title>Andrew Peters: My First Website</title>
+  <h1 id="Title">This is a story all about how my life got flipped turned upside down.</h1>
+</head>
+<body>
+	<div class="row">
+		<div class="col-sm-12">
+			a column
+		</div>
+		<div class="col-sm-12">
+			this is another column
+		</div>
+	</div>
+  <ul>
+    <img source src="https://scontent-yyz1-1.xx.fbcdn.net/v/t1.0-9/13428626_1200749553308926_6766731856731259516_n.jpg?oh=5715c21069a2c89ab6f88eb5b2aace1d&oe=58A3836E" type="mimetype">
+    <p>I was born in Mount Vernon New York, where the bagels are good and the
+      pizza is better. I usually lay around doing nothing but when im not doing
+      that im outside skating. I also make video games, music, and when im
+      feeling confident i try to draw as well.</p>
+	     <li class="social-media">Facebook: https://www.facebook.com/profile.php?id=100001216770841</li>
+       <li class="social-media">Twitter: https://twitter.com/apwastaken2</li>
+       <li class="social-media">Reddit: https://www.reddit.com/user/cuban4life07/</li>
+       <li class="social-media">Steam: http://steamcommunity.com/profiles/76561198043987447/</li>
+  </ul>
+</body>
+</html>
