@@ -1,0 +1,14 @@
+p {
+  color: #FF4040;
+  font-size: 20px;
+  text-align: center;
+}
+.social-media{
+  color: #FF8484;
+  text-align: center;
+}
+#title {
+  font-family: fantasy;
+  font-size: 20px;
+  color: #990000
+}
